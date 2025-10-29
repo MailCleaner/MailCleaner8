@@ -1,6 +1,6 @@
 # MailCleaner
 
-**Ongoing development of MailCleaner has been discontinued.** Only minor changes may be made to fix small bugs or to make migrations easier.
+**Ongoing development of MailCleaner has been discontinued.** For community support, discussions, and information on a revival of the project see [SpamTagger Plus](https://github.com/SpamTagger/SpamTagger-Plus/discussions), a fork of MailCleaner from its former head of development.
 
 <a style="float: right;" href="https://hosted.weblate.org/engage/mailcleaner/?utm_source=widget">
 <img src="https://hosted.weblate.org/widgets/mailcleaner/-/svg-badge.svg" alt="Translation status" />
